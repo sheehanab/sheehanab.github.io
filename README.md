@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Amanda Sheehan's Resume
+## This is trial and error
 
 You can use the [editor on GitHub](https://github.com/sheehanab/sheehanab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
