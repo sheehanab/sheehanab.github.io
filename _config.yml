@@ -3,7 +3,6 @@ theme: jekyll-theme-minimal
 title: "Resume: Amanda Sheehan"
 description: "Hi! I am Amanda, click around to learn more about me!"
 
-permalink: /:title
 
 ##exclude instructions
 exclude:
