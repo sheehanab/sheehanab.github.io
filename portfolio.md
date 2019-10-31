@@ -1,8 +1,8 @@
-------
+---
 title: Portfolio
-------
+---
 ##Portfolio
 
-###School Projects:
+School Projects:
 
-###Personal Projects:
+Personal Projects:
