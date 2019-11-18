@@ -13,7 +13,7 @@ I also enjoy reading (or listening to audiobooks if I do not have time to sit do
 My favorite thing to do in my free time, however, is to spend time with my family. I have three sisters and a brother and two nieces. My family is extremely important to me, and being able to spend time with them keeps me in check with what is important. 
 
 ### Learn More
-To learn more about me connect with me on [LinkedIn](https://www.linkedin.com/in/amanda-sheehan-a2254b14a/), review my projects on [GitHub](site.github.sheehanab), or contact me at asheeha3@kent.edu.
+To learn more about me connect with me on [LinkedIn](https://www.linkedin.com/in/amanda-sheehan-a2254b14a/), review my projects on [GitHub](site.github.sheehanab), or contact me at [asheeha3@kent.edu](asheeha3@kent.edu).
 
 
-![Profile Picture](profile.png)
+![Family Picture](family.jpg)
