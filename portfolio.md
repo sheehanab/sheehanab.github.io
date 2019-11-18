@@ -4,7 +4,7 @@ title: Portfolio
 ## Portfolio
 
 ### School Projects:
-#### [Timeless Tickets](https://maxdoerr.wixsite.com/timeslesstech)
+#### <a href="https://maxdoerr.wixsite.com/timeslesstech" target="_blank">Timeless Tickets</a>
 I worked with a team to create a website to refine the ticketing system used by sororities and fraternities at their philanthropy events. <br/>
 *Accompanying documentation to follow* <br/>
 *Created: Fall 2018*
@@ -16,7 +16,7 @@ I collaborated with a team in my Introduction to Database System Design class to
 
 
 ### Personal/Work Projects:
-#### [Instructional Resource Center Employee Hub](https://sites.google.com/kent.edu/ksu-irc/home)
+#### <a href="https://sites.google.com/kent.edu/ksu-irc/home" target="_blank">Instructional Resource Center Employee Hub</a>
 I created a Google Site to clearly store needed employee information. It is easily searchable, and access to the actual site is restricted to staff members only. On this site, some documents and pages may be restricted to keep company information private. 
 *Created Spring 2019*
 
