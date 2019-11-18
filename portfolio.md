@@ -17,7 +17,7 @@ I collaborated with a team in my Introduction to Database System Design class to
 
 ### Personal/Work Projects:
 #### <a href="https://sites.google.com/kent.edu/ksu-irc/home" target="_blank">Instructional Resource Center Employee Hub</a>
-I created a Google Site to clearly store needed employee information. It is easily searchable, and access to the actual site is restricted to staff members only. On this site, some documents and pages may be restricted to keep company information private. 
+I created a Google Site to clearly store needed employee information. It is easily searchable, and access to the actual site is restricted to staff members only. On this site, some documents and pages may be restricted to keep company information private. <br/>
 *Created Spring 2019*
 
 #### [Need to find additional project]()
