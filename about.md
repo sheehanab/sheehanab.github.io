@@ -16,4 +16,4 @@ My favorite thing to do in my free time, however, is to spend time with my famil
 To learn more about me connect with me on <a href="https://www.linkedin.com/in/amanda-sheehan-a2254b14a/" target="_blank">LinkedIn</a>, review my projects on <a href="site.github.sheehanab" target="_blank">GitHub</a>, or contact me at [asheeha3@kent.edu](mailto:asheeha3@kent.edu).
 
 
-![Family Picture](family.jpg)
+![Family Picture](images/family.jpg)
