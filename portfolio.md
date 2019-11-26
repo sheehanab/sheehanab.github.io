@@ -6,12 +6,12 @@ title: Portfolio
 ### School Projects:
 #### <a href="https://maxdoerr.wixsite.com/timeslesstech" target="_blank">Timeless Tickets</a>
 I worked with a team to create a website to refine the ticketing system used by sororities and fraternities at their philanthropy events. <br/>
-<a href="project documentation/SystemsAnalysisProject.pdf" target="_blank">*View System Development Information*</a> <br/>
+<a href="project documentation/SystemsAnalysisProject.pdf" target="_blank">*View System Development Documentation*</a> <br/>
 *Created: Fall 2018*
 
 #### [Student Scheduler](TBA)
 I collaborated with a team in my Introduction to Database System Design class to create a site that allows students to create a schedule of assignments and their due dates and collaborate, so that they are able to stay on track and take charge of their education. <br/>
-*link to follow* <br/>
+<a href="https://github.com/Intro-To-DB/Student-Scheduler" target="_blank">*View System Development Code*</a> <br/>
 *Created: Fall 2019*
 
 
