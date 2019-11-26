@@ -6,7 +6,7 @@ title: Portfolio
 ### School Projects:
 #### <a href="https://maxdoerr.wixsite.com/timeslesstech" target="_blank">Timeless Tickets</a>
 I worked with a team to create a website to refine the ticketing system used by sororities and fraternities at their philanthropy events. <br/>
-*Accompanying documentation to follow* <br/>
+<a href="project documentation/SystemsAnalysisProject.pdf" target="_blank">*View System Development Information*</a> <br/>
 *Created: Fall 2018*
 
 #### [Student Scheduler](TBA)
