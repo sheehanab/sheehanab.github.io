@@ -3,8 +3,8 @@ title: Portfolio
 ---
 ## Portfolio
 
-### School Projects:
-======
+## School Projects:
+
 #### Timeless Tickets
 ------
 I worked with a team to create a website to refine the ticketing system used by sororities and fraternities at their philanthropy events. <br/>
@@ -20,8 +20,8 @@ I collaborated with a team in my Introduction to Database System Design class to
 *Created: Fall 2019*
 
 
-### Personal/Work Projects:
-======
+## Personal/Work Projects:
+
 #### Instructional Resource Center Employee Hub
 ------
 I created a Google Site to clearly store needed employee information. It is easily searchable, and access to the actual site is restricted to staff members only. On this site, some documents and pages may be restricted to keep company information private. <br/>
