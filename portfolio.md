@@ -14,7 +14,7 @@ I worked with a team to create a website to refine the ticketing system used by 
 #### **Student Scheduler**
 I collaborated with a team in my Introduction to Database System Design class to create a site that allows students to create a schedule of assignments and their due dates and collaborate, so that they are able to stay on track and take charge of their education. <br/>
 <a href="https://github.com/Intro-To-DB/Student-Scheduler" target="_blank">*View System Development Code*</a> <br/>
-<a href="https://github.com/Intro-To-DB/Student-Scheduler" target="_blank">*View System Site*</a> <br/>
+<a href="project documentation/Screen Shots.pdf" target="_blank">*View System Site Screenshots*</a> <br/>
 *Created: Fall 2019*
 
 
