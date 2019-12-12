@@ -4,14 +4,7 @@
 <h2>Tower of Hanoi Problem</h2>
 
 <br>
-<!--
-<form action="/towerCalc.php">
-Number of Rings: <br>
-<input type="text" name="ringNumber" value=""> <br>
-<input type="submit" value="Generate Number of Moves">
-</form>
--->
-
+  
   <div id="towerInput">
     <p id="demo">Number of Rings:</p> <br>
     <input type="text" name="ringNumber" value""> <br>
@@ -38,6 +31,7 @@ Number of Rings: <br>
     }
   
     // Div elements 
+    var para = document.createElement('p');
     var div = document.createElement('div');
     div.innerHTML = "Generating your steps: ";
     document.getElementById("results").appendChild(div);
@@ -134,7 +128,9 @@ Number of Rings: <br>
 
         // increment moves
         numberOfMoves++;
-
+        
+        if((pole1[pole1.length-1] != 0) || (pole2[pole2.length-1)){
+        
         if(pole1[pole1.length-1] > pole2[pole2.length-1]){
           // copy top ring (pole 1) to next pole 
           pole2.push(pole1[pole1.length-1]);
@@ -178,13 +174,15 @@ Number of Rings: <br>
 
         // increment moves
         numberOfMoves++;
+        }
       }
+     }
 
       // output moves:
       for(var i = 0; i < numberOfMoves; i++){
         para.innerHTML = para.innerHTML + outStack[i] + "<br>";
       }
-      document.getElementById("results").appendChild(document.createElement('p'));
+      document.getElementById("results").appendChild(para);
 
       var numMoves = document.createElement('p');
       numMoves.innerHTML = "Number of moves required to solve: " + numberOfMoves;
