@@ -27,5 +27,6 @@ I created a Google Site to clearly store needed employee information. It is easi
 *Created: Spring 2019*
 
 #### **Tower of Hanoi**
-I practiced a concept we learned in Computer Science II in a couple languages. Select the link below to view a description of the concept, the JavaScript version, and code to solve in in other languages.
+I practiced a concept we learned in Computer Science II in a couple languages. Select the link below to view a description of the concept, the JavaScript version, and code to solve in in other languages. <br>
 <a href="towerofhanoi.html" target="_blank">*View Tower of Hanoi Page*</a> <br/>
+*Created: Fall 2019*
