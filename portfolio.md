@@ -12,7 +12,8 @@ I worked with a team to create a website to refine the ticketing system used by 
 *Created: Fall 2018*
 
 #### **Student Scheduler**
-I collaborated with a team in my Introduction to Database System Design class to create a site that allows students to create a schedule of assignments and their due dates and collaborate, so that they are able to stay on track and take charge of their education. Use username: "test" and password: "test" for a student login, and username: "testinstructor" and password: "test" for an instructor login.<br/>
+I collaborated with a team in my Introduction to Database System Design class to create a site that allows students to create a schedule of assignments and their due dates and collaborate, so that they are able to stay on track and take charge of their education. <br>
+Use username: "test" and password: "test" for a student login, and username: "testinstructor" and password: "test" for an instructor login.<br/>
 <a href="https://github.com/Intro-To-DB/Student-Scheduler" target="_blank">*View System Development Code*</a> <br/>
 <a href="https://dbdev.cs.kent.edu/~asheeha3/login.php" target="_blank">*View System Site*</a> <br/>
 *Created: Fall 2019*
@@ -25,5 +26,6 @@ I created a Google Site to clearly store needed employee information. It is easi
 <a href="https://sites.google.com/kent.edu/ksu-irc/home" target="_blank">*View System Site*</a> <br/>
 *Created: Spring 2019*
 
-#### **Need to find additional project**
-I still need to find an additional out of class project.
+#### **Tower of Hanoi**
+I practiced a concept we learned in Computer Science II in a couple languages. Select the link below to view a description of the concept, the JavaScript version, and code to solve in in other languages.
+<a href="towerofhanoi.html" target="_blank">*View Tower of Hanoi Page*</a> <br/>
