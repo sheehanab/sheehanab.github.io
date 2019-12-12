@@ -12,7 +12,7 @@ I worked with a team to create a website to refine the ticketing system used by 
 *Created: Fall 2018*
 
 #### **Student Scheduler**
-I collaborated with a team in my Introduction to Database System Design class to create a site that allows students to create a schedule of assignments and their due dates and collaborate, so that they are able to stay on track and take charge of their education. <br/>
+I collaborated with a team in my Introduction to Database System Design class to create a site that allows students to create a schedule of assignments and their due dates and collaborate, so that they are able to stay on track and take charge of their education. Use username: "test" and password: "test" for a student login, and username: "testinstructor" and password: "test" for an instructor login.<br/>
 <a href="https://github.com/Intro-To-DB/Student-Scheduler" target="_blank">*View System Development Code*</a> <br/>
 <a href="https://dbdev.cs.kent.edu/~asheeha3/login.php" target="_blank">*View System Site*</a> <br/>
 *Created: Fall 2019*
