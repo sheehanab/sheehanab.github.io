@@ -39,7 +39,7 @@ Number of Rings: <br>
     // Div elements 
     var div = document.createElement('div');
     div.innerHTML = "Generating your steps: ";
-    document.getElementById('results').appendChild(div);
+    document.getElementById("results").appendChild(div);
   
     while((pole1[pole1.length-1] != 0) || (pole2[pole2.length-1] !=0){
       // if the ring number is even 
@@ -183,11 +183,11 @@ Number of Rings: <br>
       for(var i = 0; i < numberOfMoves; i++){
         para.innerHTML = para.innerHTML + outStack[i] + "<br>";
       }
-      document.getElementById('results').appendChild(document.createElement('p'));
+      document.getElementById("results").appendChild(document.createElement('p'));
 
       var numMoves = document.createElement('p');
       numMoves.innerHTML = "Number of moves required to solve: " + numberOfMoves;
-      documtent.getElementById('results').appendChild(numMoves);
+      document.getElementById("results").appendChild(numMoves);
   }
   </script>
 
