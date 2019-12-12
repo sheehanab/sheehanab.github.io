@@ -22,7 +22,8 @@ Number of Rings: <br>
   <script>
     function genMoves() {
     // declare initial variables
-    var numberOfRings = document.getElementById("ringNumber").value;
+    var ringNum = document.getElementById("ringNumber").value;
+    var numberOfRings = ringNum;
     var numberOfMoves = 0;
     var outStack = [0];
     var outStackIt = 0;
