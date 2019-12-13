@@ -1,45 +1,30 @@
 <html>
 <body>
 
-<h2>Tower of Hanoi Problem</h2>
-
-<br>
-<table>
-  <div id="towerInput">Number of Rings: <br>
-    <input type="text" id="ringNumber"> <br>
-    <button onclick="genMoves();">Generate Number of Moves</button>
-  </div>
-  <div id="results"></div>
-  <td>
-</table>
 
   <script>
-    function genMoves() {
+    function genMoves(){
     // declare initial variables
     var ringNum = document.getElementById("ringNumber").value;
     var numberOfRings = ringNum;
     var numberOfMoves = 0;
-    
-    var outStack = [0];
-    var outStackIt = 0;
 
+	var outStack = [0];
+    var outStackIt = 0;
     // declare poles
     var pole1 = [0];
     var pole2 = [0];
     var pole3 = [0];
-
     for(var i = 1; i <= numberOfRings; i++){
       pole1.push(i);
     }
-
     // Div elements
     var para = document.createElement('p');
     var div = document.createElement('div');
     
     div.innerHTML = "Generating your steps: ";
     document.getElementById('results').appendChild(div);
-
-    while((pole1[pole1.length-1] != 0) || (pole2[pole2.length-1] !=0){
+    while((pole1[pole1.length-1] != 0) || (pole2[pole2.length-1] !=0)){
       // if the ring number is even
       if(numberOfRings % 2 == 0){
         if(pole1[pole1.length-1] > pole2[pole2.length-1]){
@@ -58,7 +43,6 @@
           // delete top of pole 2
           pole2.pop();
         }
-
         // increment moves
         numberOfMoves++;
         
@@ -78,10 +62,8 @@
           // delete top of pole 3
           pole3.pop();
         }
-
         // increment moves
         numberOfMoves++;
-
         if(pole2[pole2.length-1] > pole3[pole3.length-1]){
           // copy top ring (pole 2) to pole 3
           pole3.push(pole2[pole2.length-1]);
@@ -98,7 +80,6 @@
           // delete top of pole 3
           pole3.pop();
         }
-
         // increment moves
         numberOfMoves++;
       }
@@ -122,8 +103,7 @@
         }
         // increment moves
         numberOfMoves++;
-
-        if((pole1[pole1.length-1] != 0) || (pole2[pole2.length-1) != 0){
+        if((pole1[pole1.length-1] != 0) || (pole2[pole2.length-1] != 0)){
           if(pole1[pole1.length-1] > pole2[pole2.length-1]){
             // copy top ring (pole 1) to next pole
             pole2.push(pole1[pole1.length-1]);
@@ -140,7 +120,6 @@
             // delete top of pole 2
             pole2.pop();
           }
-
           // increment moves
           numberOfMoves++;
           
@@ -175,6 +154,20 @@
       document.getElementById('results').appendChild(numMoves);
   }
   </script>
+  
+
+<h2>Tower of Hanoi Problem</h2>
+
+<br>
+<table>
+  <div id="towerInput">Number of Rings: <br>
+    <input type="text" id="ringNumber"> <br>
+    <button onclick="genMoves();">Generate Number of Moves</button>
+  </div>
+  <div id="results"></div>
+  <td>
+</table>  
+  
 <br>
 <h3>Summary of the Tower</h3>
 <p>This is the summary</p>
