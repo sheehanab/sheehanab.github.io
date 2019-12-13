@@ -147,9 +147,9 @@
           if(pole2[pole2.length-1] > pole3[pole3.length-1]){
             // copy top ring (pole 2) to pole 3
             pole3.push(pole2[pole2.length-1]);
-            outStack[outStackIt] = "Move ring size: " + pole2[pole2.length-1] + " from pole 2 --> 3;
+            outStack[outStackIt] = "Move ring size: " + pole2[pole2.length-1] + " from pole 2 --> 3";
             outStackIt++;
-            console.log("Move ring size: " + pole2[pole2.length-1] + " from pole 2 --> 3);
+            console.log("Move ring size: " + pole2[pole2.length-1] + " from pole 2 --> 3");
             pole2.pop();
           }else{
             outStack[outStackIt] = "Move ring size: " + pole3[pole3.length-1] + " from pole 3 --> 2";
