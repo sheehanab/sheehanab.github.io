@@ -24,7 +24,7 @@ I created this personal portfolio site for my CS Internship course, so that in t
 *Created: Fall 2019*
 
 #### **CheckIN App**
-I am creating an application with a team that will allow organizations on campus to take attendance more easily and effectively. <br/>
+I am creating an application with a team using Google Cloud (Firebase) to allow organizations on campus to take attendance more easily and effectively. <br/>
 <a href="http://amandasheehan.me/CheckIN/">*View CheckIN App* </a> <br/>
 <a href="https://github.com/sheehanab/CheckIN">*View CheckIN Code* </a> <br/>
 *Created: Spring 2020*
