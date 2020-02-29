@@ -18,6 +18,17 @@ Use username: "test" and password: "test" for a student login, and username: "te
 <a href="https://dbdev.cs.kent.edu/~asheeha3/login.php" target="_blank">*View System Site*</a> <br/>
 *Created: Fall 2019*
 
+#### **Portfolio Site**
+I created this personal portfolio site for my CS Internship course, so that in the future I would be able to show future employers examples of my work in addition to letters of reference and more personal information. <br/>
+<a href="https://github.com/sheehanab/sheehanab.github.io">*View Site Code*</a> <br/>
+*Created: Fall 2019*
+
+#### **CheckIN App**
+I am creating an application with a team that will allow organizations on campus to take attendance more easily and effectively. <br/>
+<a href="http://amandasheehan.me/CheckIN/">*View CheckIN App* </a> <br/>
+<a href="https://github.com/sheehanab/CheckIN">*View CheckIN Code* </a> <br/>
+*Created: Spring 2020*
+
 
 ### Personal/Work Projects:
 ------
